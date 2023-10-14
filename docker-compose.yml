@@ -3,9 +3,9 @@ services:
   worker:
     build: .
     environment:
-      - API_HASH=${API_HASH}
-      - API_KEY=${API_KEY}
-      - BOT_TOKEN=${BOT_TOKEN}
-      - WORKERS=${WORKERS}
-      - CHANNEL_URL=${CHANNEL_URL}
-      - BOT_URL=${BOT_URL}
+      - API_HASH=${b622948c9c4698f5a1e3bb386ff072af}
+      - API_KEY=${28660738}
+      - BOT_TOKEN=${6514762750:AAFlLJ_mgf7NXAw8oyLrggxEXvsPFB6C29w}
+      - WORKERS=${4}
+      - CHANNEL_URL=${https://t.me/jesustiktokbot}
+      - BOT_URL=${jesustiktokbot}
